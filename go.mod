@@ -1,3 +1,3 @@
-module gitlab.com/mts-teta/paramoshkin/models
+module github.com/SergeyParamoshkin/models
 
 go 1.17
